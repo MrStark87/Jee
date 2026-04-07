@@ -8,3 +8,5 @@ ADMIN_ID   = 123456789               # Apna Telegram user ID (int)
 ADMIN_PASS = "yourpassword"          # Admin panel password
 
 DB_PATH    = "jee_saarthi.db"
+TIMEZONE   = "Asia/Kolkata"
+ 
